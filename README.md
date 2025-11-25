@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cross-Ocean)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cross-Ocean)
+-->
+
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Patience+is+key+in+life)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cross-Ocean)
+[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Cross-Ocean)](https://github.com/IceEnd)
+
+
