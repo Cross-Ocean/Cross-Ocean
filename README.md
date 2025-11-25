@@ -16,40 +16,26 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-
 <img src="https://upload.wikimedia.org/wikipedia/en/0/01/Golden_State_Warriors_logo.svg" width="120" />
 
 ## 💙💛 Welcome to Cross-Ocean’s Github  
 
----
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3500&pause=800&color=FDB927&center=true&vCenter=true&width=600&lines=NO+one+wanna+see+us+next+year;Shoot+your+shot+like+Curry;Trust+the+process;Stay+golden%2C+stay+focused)
 
----
-
-
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cross-Ocean&theme=react-dark&radius=12&color=FDB927&line=006BB6&point=FDB927)
-
----
-
-
-[![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=Cross-Ocean&theme=dark&icon_color=FDB927&title_color=FDB927&text_color=ffffff)](https://github.com/IceEnd)
-
----
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cross-Ocean/Cross-Ocean/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cross-Ocean/Cross-Ocean/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cross-Ocean/Cross-Ocean/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-
-
 </div>
-
-
-
+<div align="center" style="margin-top: 30px; font-family: 'Fira Code', monospace;">
+  <marquee behavior="scroll" direction="left" scrollamount="100">
+    <span style="font-size:28px; color:#FDB927;">2015年 🏆</span> &nbsp;&nbsp;
+    <span style="font-size:28px; color:#006BB6;">2017年 🏆</span> &nbsp;&nbsp;
+    <span style="font-size:28px; color:#FDB927;">2018年 🏆</span> &nbsp;&nbsp;
+    <span style="font-size:28px; color:#006BB6;">2022年 🏆</span>
+  </marquee>
+</div>
 
