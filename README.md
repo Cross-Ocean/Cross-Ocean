@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&duration=3500&pause=800&color=FDB927&center=true&vCenter=true&width=600&lines=NO+one+wanna+see+us+next+year;Shoot+your+shot+like+Curry;Trust+the+process;Stay+golden%2C+stay+focused)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Cross-Ocean&theme=react-dark&radius=12&color=FDB927&line=006BB6&point=FDB927)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cross-Ocean/Cross-Ocean/output/github-contribution-grid-snake-dark.svg">
